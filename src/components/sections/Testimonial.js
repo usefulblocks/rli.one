@@ -45,7 +45,7 @@ const Testimonial = ({
 
   const sectionHeader = {
     title: 'My promises',
-    paragraph: 'This entire proces is bootstrapped by me, but for this solution to be viable it needs users and a community. There I will pledge the following.'
+    paragraph: 'This entire proces is bootstrapped by me, but for this solution to be viable it needs users and a community. To them I pledge the following.'
   };
 
   return (
@@ -79,7 +79,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    —  I will be forthright and forthcoming in the development proces as long as time and ressources allow me to.
+                    —  I will be forthright and forthcoming in the development proces as long as time and resources allow me to. If resources is avaliable time shall always be made for the community.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">

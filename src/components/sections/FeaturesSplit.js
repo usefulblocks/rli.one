@@ -148,7 +148,7 @@ const FeaturesSplit = ({
                   You and I
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Intuative interaction
+                  Intuitive interaction
                   </h3>
                 <p className="m-0">
                   Before any of the previous steps make sense it needs to be build in to a user experience. 

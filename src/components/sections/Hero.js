@@ -69,11 +69,8 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://github.com/usefulblocks?tab=repositories">
+                  <Button tag="a" color="primary" wideMobile href="https://github.com/users/usefulblocks/projects/1/views/1">
                     Follow the build
-                    </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/usefulblocks?tab=repositories">
-                    View on Github
                     </Button>
                 </ButtonGroup>
               </div>
