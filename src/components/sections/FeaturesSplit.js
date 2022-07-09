@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                   Towards minimal product
                   </h3>
                 <p className="m-0">
-                  Step 0 was this landing page. step 1 is image storage. Step 2. is compililation and storage of NFT package. Step 3. is front-end.
+                  Step 0 was this landing page. step 1 is photo storage. Step 2. is minting, storage and visualization of NFT data package. Step 3. is making it all work for you.
                   </p>
               </div>
               <div className={
@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   Image storage
                   </h3>
                 <p className="m-0">
-                <a href="https://ipfs.io/">IPFS</a> is the optimal solution, for now I need progress and image storage on cloud is the fastest path to integrating blockchain in every day life.
+                <a href="https://ipfs.io/">IPFS</a> is the optimal solution, for now I need progress without potential legal issues and photo storage on cloud is the fastest path to integrating blockchain in every day life. <a href="https://ipfs.io/">IPFS</a> integration is a strategic goal
                   </p>
               </div>
               <div className={

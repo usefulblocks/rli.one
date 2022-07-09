@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'Creating something usefull',
-    paragraph: 'Has insurance company, law enformentment or maybe just that one jealous friend ever been sceptical about when or where a image was taken. Conflicts arising from trust issues every day images may become a thing of the past.'
+    paragraph: 'Has insurance company, law enformentment or maybe just that one jealous friend ever been sceptical about when or where a image was taken. Conflicts arising from breakdown in trust is costing society billions and even life.'
   };
 
   return (
@@ -71,7 +71,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Adding to Your Images
+                    Adding to your images
                     </h4>
                   <p className="m-0 text-sm">
                     Building blockchain packages using Exif- geospatial data to increase trust.
