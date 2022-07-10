@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   Image storage
                   </h3>
                 <p className="m-0">
-                <a href="https://ipfs.io/">IPFS</a> is the optimal solution, for now I need progress without potential legal issues and photo storage on cloud is the fastest path to integrating blockchain in every day life. <a href="https://ipfs.io/">IPFS</a> integration is a strategic goal
+                <a href="https://ipfs.io/">IPFS</a> is the optimal solution, for now I need progress without potential legal issues and photo storage on cloud is the fastest path to integrating blockchain in every day life. <a href="https://ipfs.io/">IPFS</a> integration is a strategic goal.
                   </p>
               </div>
               <div className={

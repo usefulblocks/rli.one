@@ -71,7 +71,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Adding to your images
+                    Adding to your photos
                     </h4>
                   <p className="m-0 text-sm">
                     Building blockchain packages using Exif- geospatial data to increase trust.
@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Directly to Blockchain
                     </h4>
                   <p className="m-0 text-sm">
-                    We create an unbreakable bond between your image and a verifiable blockachain entry using NFT.
+                    We create an unbreakable bond between your photo and a verifiable blockchain entry using NFT.
                     </p>
                 </div>
               </div>
@@ -115,10 +115,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Enhanced trust by 3rd party data
+                    Enhancing trust using 3rd party data
                     </h4>
                   <p className="m-0 text-sm">
-                  By choice enhance your package using location data verified by third party geospatial data. 
+                  By choice we will enhance your package with location data verified by third party geospatial data. 
                     </p>
                 </div>
               </div>
@@ -162,7 +162,7 @@ const FeaturesTiles = ({
                     Strive to trust
                     </h4>
                   <p className="m-0 text-sm">
-                    We are creating a product that create a verifiable representation of actual events, personal and shared.
+                    We are creating a product that create a verifiable representation of actual events, personal and/or shared.
                     </p>
                 </div>
               </div>

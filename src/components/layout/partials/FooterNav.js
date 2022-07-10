@@ -13,7 +13,7 @@ const FooterNav = ({
   );
 
   return (
-    <nav
+    <nav disabled="true"
       {...props}
       className={classes}
     >

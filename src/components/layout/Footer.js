@@ -45,7 +45,7 @@ const Footer = ({
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             <FooterNav />
-            <div className="footer-copyright">Made by <a href="https://rli.one">Usefulblocks</a>. All right reserved</div>
+            <div className="footer-copyright">Made by <a href="https://github.com/usefulblocks">Usefulblocks</a>. All right reserved</div>
           </div>
         </div>
       </div>

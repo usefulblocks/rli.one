@@ -139,14 +139,16 @@
 	margin-left: -$footer-nav--padding-h;
 
 	a {
+		cursor: not-allowed;
 		@include anchor-aspect(footer);
 		@include font-weight(footer-link);
 		text-transform: $link-footer--transform;
 		padding: 0 $footer-nav--padding-h;
-
+		
 		.invert-color & {
 			@include anchor-aspect(footer, inverse);
 		}
+		
 	}
 }
 

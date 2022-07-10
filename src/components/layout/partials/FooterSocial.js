@@ -18,11 +18,11 @@ const FooterSocial = ({
     >
       <ul className="list-reset">
         <li>
-          <a href="https://facebook.com/">
+          <a>
             <svg
-              width="16"
-              height="16"
-              viewBox="0 0 16 16"
+              width="0"
+              height="0"
+              viewBox="0 0 0 0"
               xmlns="http://www.w3.org/2000/svg">
               <title>Facebook</title>
               <path
@@ -31,7 +31,7 @@ const FooterSocial = ({
           </a>
         </li>
         <li>
-          <a href="https://twitter.com/">
+          <a href="https://twitter.com/MikkelJ76677970">
             <svg
               width="16"
               height="16"
@@ -44,11 +44,11 @@ const FooterSocial = ({
           </a>
         </li>
         <li>
-          <a href="https://google.com/">
+          <a>
             <svg
-              width="16"
-              height="16"
-              viewBox="0 0 16 16"
+              width="0"
+              height="0"
+              viewBox="0 0 0 0"
               xmlns="http://www.w3.org/2000/svg">
               <title>Instagram</title>
               <g>
