@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Creating something usefull',
-    paragraph: 'Has insurance company, law enformentment or maybe just that one jealous friend ever been sceptical about when or where a image was taken. Conflicts arising from breakdown in trust is costing society billions and even life.'
+    title: 'Creating something useful',
+    paragraph: 'Has insurance company, law enformentment or governement ever been sceptical about when or where a image was taken. Conflicts arising from breakdown in trust and it is costing society billions.'
   };
 
   return (
@@ -140,7 +140,7 @@ const FeaturesTiles = ({
                     Smart blockchain navigation
                     </h4>
                   <p className="m-0 text-sm">
-                    Integrating GPT-3 and Elasticsearch to give cutting edge experience navigating your blockchain data.
+                    Integrating with modern machine learning practices to ensure full GDPR compliance.
                     </p>
                 </div>
               </div>
@@ -159,10 +159,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Strive to trust
+                    Trust a core postive societal enabler
                     </h4>
                   <p className="m-0 text-sm">
-                    We are creating a product that create a verifiable representation of actual events, personal and/or shared.
+                    We are building a solution that enables your to share without scrutiny.
                     </p>
                 </div>
               </div>

@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'Follow the work',
-    paragraph: 'We have a lot ahead of us.'
+    paragraph: 'Support the movement.'
   };
 
   return (
@@ -163,8 +163,8 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
-                  alt="Features split 03"
+                  src={require('./../../assets/images/features-split-image-04.png')}
+                  alt="Features split 04"
                   width={528}
                   height={396} />
               </div>

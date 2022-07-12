@@ -61,11 +61,11 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Your <span className="text-color-primary">Photos</span> data on blockchain
+              Adding trust to <span className="text-color-primary">photos</span> by blockchain
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Using cutting edge technology to create higher than ever trust in everyday photos.
+                Create higher than ever trust in everyday photos.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -73,10 +73,30 @@ const Hero = ({
                     Follow the build
                     </Button>
                 </ButtonGroup>
-              </div>
+                </div>
             </div>
           </div>
-          <iframe src="https://player.vimeo.com/video/728396545?h=7e6274c28f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="896" height="504" frameborder="0" allow="autoplay; picture-in-picture" allowfullscreen title="our_first_intro.mkv"></iframe>
+          <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
+            <a
+              data-video="https://player.vimeo.com/video/728396545"
+              href="#0"
+              aria-controls="video-modal"
+              onClick={openModal}
+            >
+              <Image
+                className="has-shadow"
+                src={require('./../../assets/images/video-placeholder.jpg')}
+                alt="Hero"
+                width={896}
+                height={504} />
+            </a>
+          </div>
+          <Modal
+            id="video-modal"
+            show={videoModalActive}
+            handleClose={closeModal}
+            video="https://player.vimeo.com/video/728396545"
+            videoTag="iframe" />
         </div>
       </div>
     </section>
