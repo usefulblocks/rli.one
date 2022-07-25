@@ -120,7 +120,10 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link disabled="true" to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up for Test </Link>
+                        <Link href="
+                        https://rli.auth.eu-north-1.amazoncognito.com/login?client_id=75pselpgujm1lu67fikvuq9d56&response_type=code&scope=email+openid+phone&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2FGallery
+                        " 
+                        className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up for Test </Link>
                       </li>
                     </ul>}
                 </div>

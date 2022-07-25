@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Creating something useful',
-    paragraph: 'Has insurance company, law enformentment or governement ever been sceptical about when or where a image was taken. Conflicts arising from breakdown in trust and it is costing society billions.'
+    title: 'Follow The Journey',
+    paragraph: ''
   };
 
   return (
@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Adding to your photos
                     </h4>
                   <p className="m-0 text-sm">
-                    Building blockchain packages using Exif- geospatial data to increase trust.
+                    Building blockchain packages using Exif- and geospatial data to increase trust.
                     </p>
                 </div>
               </div>
